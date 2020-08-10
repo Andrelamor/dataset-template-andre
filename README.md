@@ -1,6 +1,6 @@
 # dataset-template-andre
 
-[![goodtables.io](https://goodtables.io/badge/github/Andrelamor/dataset-template-andre.svg)](https://goodtables.io/github/Andrelamor/dataset-template-andre)
+
 
 Este diretório visa documentar o diretório padronizado que é utilizado para novos conjuntos de dados, gerenciados pela Diretoria Central de Transparência Ativa (DTA), a serem publicados no Portal de Dados Abertos do Estado de Minas Gerais.
 
