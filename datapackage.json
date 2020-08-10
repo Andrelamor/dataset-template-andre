@@ -32,7 +32,7 @@
         ]
       },
       "dialect": {
-      "delimiter": ",",
+      "delimiter": ";",
       "header": true
     },
       "title": "This is the actual data",
