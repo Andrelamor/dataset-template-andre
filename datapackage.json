@@ -26,7 +26,7 @@
             "name": "vowel",
             "type": "boolean",
             "format": "default",
-            "title": "Grammer of letter",
+            "title": "Grammar",
             "description": "Is the letter a vowel?"
           }
         ]
